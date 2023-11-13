@@ -1,0 +1,12 @@
+
+.users__user{
+    text-align: center;
+    border: 2px solid black;
+    margin: 2px;
+}
+
+.users__avatar{
+   width: 150px;
+    margin-top: 50px ;
+    border-radius: 50%;
+}
